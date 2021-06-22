@@ -1,0 +1,40 @@
+
+/*.subjectHeader {
+  color: blue;
+} */
+
+h2, h3, h4, h5 {
+  color: red;
+}
+
+#scoreBoard > thead {
+  color: Red;
+  font-style: bold;
+}
+
+#scoreBoard {
+  border: 2px black solid;
+  text-align: center;
+}
+
+#scoreBoard > th, td, tfoot {
+  border: 1px black solid;
+}
+
+#teamRoster ol, ul {
+  list-style: square;
+}
+
+.hyperLink {
+  text-decoration: none;
+}
+
+.hyperLink:hover {
+  background-color: lightgreen;
+  text-decoration: none;
+}
+
+blockquote {
+  background-color: black;
+  color: white;
+}
